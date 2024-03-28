@@ -1,0 +1,11 @@
+{
+  "name": "eleventy-blog",
+  "version": "1.0.0",
+  "description": "Demo Blog",
+  "main": "index.js",
+  "author": "Daniel Waldow",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
